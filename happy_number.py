@@ -1,4 +1,4 @@
-num = 4567
+num = 456789
 
 def happy_number(num):
 
